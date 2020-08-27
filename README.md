@@ -1,2 +1,2 @@
 # Personal_Repository
-re pos i tor y
+This is Jayna Rowe's personal repository
